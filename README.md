@@ -8,7 +8,7 @@ I am a passionate third-year Software Development Student at Seneca Polytechnic 
 
 *   🌍  I'm based in Toronto, Ontario, Canada🍁
 *   🖥️  See my portfolio at [jessepirrotta.dev](http://jessepirrotta.dev)
-*   ✉️  You can contact me at [jpirrotta2003@gmail.com](mailto:jpirrottadev@gmail.com)
+*   ✉️  You can contact me at [jpirrottadev@gmail.com](mailto:jpirrottadev@gmail.com)
 
 ### Skills 
 <p align="left">
