@@ -4,7 +4,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Full Stack Software and Game Developer
 --------------------------------------
 
-I am a passionate third-year Software Development Student at Seneca Polytechnic working hard towards an Honours Bachelor of Technology degree and I am eager to join the software or game development industry! Computers have always been of interest to me, every since I was a kid. I've always wondered how they worked. There was just something about seeing my screen light up on my Nintendo DS that made me think, "How does this all work?" So, fast forward a few years and here I am, studying and working hard at Seneca, hoping to one day develop some really cool software or video games. I've had quite a bit of part-time work experience ranging from food service to retail, all in an effort to save up some money, and support a future I am passionate about. You can check out more of that on my LinkedIn :)
+I am a passionate third-year Software Development Student at Seneca Polytechnic working hard towards an Honours Bachelor of Technology degree and I am eager to join the software or game development industry! Computers have always been of interest to me, every since I was a kid. I've always wondered how they worked. There was just something about seeing my screen light up on my Nintendo DS that made me think, "How does this all work?" So, fast forward a few years and here I am, studying and working hard at Seneca, hoping to one day develop some really cool software or video games.
 
 *   🌍  I'm based in Toronto, Ontario, Canada🍁
 *   🖥️  See my portfolio at [jessepirrotta.dev](http://jessepirrotta.dev)
